@@ -56,8 +56,7 @@ A comprehensive mobile marketplace system for pineapple-based products where use
 
 ### Database
 - **Primary Database**: PostgreSQL
-- **Caching**: Redis (optional)
-- **File Storage**: AWS S3 or local storage
+- **File Storage**: Local storage
 
 ## Project Structure
 ```
@@ -82,7 +81,7 @@ pinemarket/
 └── database/            # Database schemas and migrations
     ├── schema.sql
     ├── seed.sql
-    └── migrations/
+
 ```
 
 ## Installation & Setup

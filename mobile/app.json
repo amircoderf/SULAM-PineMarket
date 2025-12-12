@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "PineMarket",
+    "slug": "pinemarket",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFB300"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pinemarket.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFB300"
+      },
+      "package": "com.pinemarket.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Your Pineapple Products Marketplace - Buy and sell pineapple products with ease!"
+  }
+}

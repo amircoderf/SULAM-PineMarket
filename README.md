@@ -46,8 +46,6 @@ A comprehensive mobile marketplace system for pineapple-based products where use
 
 ### Mobile App
 - **Framework**: React Native (cross-platform)
-- **State Management**: Redux/Context API
-- **Navigation**: React Navigation
 - **UI Components**: React Native Paper/Native Base
 
 ### Backend
@@ -66,9 +64,9 @@ A comprehensive mobile marketplace system for pineapple-based products where use
 ### Prerequisites
 - Node.js (v16+)
 - PostgreSQL (v13+)
-- npm or yarn
+- npm 
 - React Native CLI
-- Android Studio / Xcode
+- Android Studio 
 
 ### Backend Setup
 ```bash

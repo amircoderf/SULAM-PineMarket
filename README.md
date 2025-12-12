@@ -58,31 +58,6 @@ A comprehensive mobile marketplace system for pineapple-based products where use
 - **Primary Database**: PostgreSQL
 - **File Storage**: Local storage
 
-## Project Structure
-```
-pinemarket/
-├── mobile/               # React Native mobile app
-│   ├── src/
-│   │   ├── components/  # Reusable components
-│   │   ├── screens/     # App screens
-│   │   ├── navigation/  # Navigation setup
-│   │   ├── services/    # API services
-│   │   ├── redux/       # State management
-│   │   └── utils/       # Utility functions
-│   └── package.json
-├── backend/             # Node.js backend
-│   ├── src/
-│   │   ├── controllers/ # Request handlers
-│   │   ├── models/      # Database models
-│   │   ├── routes/      # API routes
-│   │   ├── middleware/  # Custom middleware
-│   │   └── config/      # Configuration
-│   └── package.json
-└── database/            # Database schemas and migrations
-    ├── schema.sql
-    ├── seed.sql
-
-```
 
 ## Installation & Setup
 

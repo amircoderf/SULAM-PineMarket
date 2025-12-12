@@ -131,6 +131,5 @@ See `database/schema.sql` for complete database structure.
 - Push notifications
 - In-app chat between buyers and sellers
 - Advanced analytics dashboard
-- Multi-language support
 - Location-based product search
 - Social media integration

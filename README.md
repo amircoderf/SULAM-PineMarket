@@ -10,7 +10,7 @@ A comprehensive mobile marketplace system for pineapple-based products where use
 
 ### User Features
 - **User Registration & Authentication**
-  - Sign up with email/phone
+  - Sign up with email
   - Login/Logout functionality
   - Profile management
 

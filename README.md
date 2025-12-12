@@ -10,7 +10,6 @@ A comprehensive mobile marketplace system for pineapple-based products where use
   - Sign up with email/phone
   - Login/Logout functionality
   - Profile management
-  - User verification for sellers
 
 ### Buyer Features
 - Browse pineapple products
